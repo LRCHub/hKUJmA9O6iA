@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "마지막처럼(As If It's Your Last)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-01-05T07:03:49.767206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "마지막처럼(As If It's Your Last)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_마지막처럼(As_If_It's_Your_Last)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "마지막처럼(As If It's Your Last)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_마지막처럼(As_If_It's_Your_Last)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "마지막처럼(As If It's Your Last)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_마지막처럼(As_If_It's_Your_Last)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "마지막처럼 (As If It's Your Last)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/04_마지막처럼_(As_If_It's_Your_Last)_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "마지막처럼(As If It's Your Last)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_마지막처럼(As_If_It's_Your_Last)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_BLACKPINK_-_'마지막처럼_(AS_IF_IT'S_YOUR_LAST)'_M_V_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "마지막처럼 (As If It's Your Last) [Live]",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_마지막처럼_(As_If_It's_Your_Last)_[Live]_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ DANCE PRACTICE VIDEO",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_BLACKPINK_-_‘마지막처럼_(AS_IF_IT’S_YOUR_LAST)’_DANCE_PRACTICE_VIDEO_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "마지막처럼 (AS IF IT’S YOUR LAST)",
+      "artist": "BLACKPINK - ilKPOP.com",
+      "has_synced": true,
+      "path": "select/09_마지막처럼_(AS_IF_IT’S_YOUR_LAST)_BLACKPINK_-_ilKPOP.com.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "마지막처럼 (AS IF IT'S YOUR LAST)",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_마지막처럼_(AS_IF_IT'S_YOUR_LAST)_BLACKPINK.txt"
+    }
+  ]
+}
